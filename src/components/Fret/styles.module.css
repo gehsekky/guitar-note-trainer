@@ -1,0 +1,21 @@
+.fret {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.cell {
+    min-height: 2.5rem;
+    min-width: 4rem;
+    border-right: 3px solid #ccc;
+    position: relative;
+}
+
+.noborder {
+    border-right: 0px;
+}
+
+.blackBorder {
+    border-right: 3px solid #000;
+}

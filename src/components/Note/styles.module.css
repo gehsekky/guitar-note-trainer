@@ -1,0 +1,36 @@
+.note {
+    height: 2rem;
+    width: 2rem;
+    border: 2px solid #000;
+    position: absolute;
+    left: 25%;
+    top: 60%;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4ef88;
+    font-weight: bold;
+    z-index: 1;
+}
+
+.hidden {
+    height: 2rem;
+    width: 2rem;
+    border: 2px solid #000;
+    position: absolute;
+    left: 25%;
+    top: 60%;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4ef88;
+    font-weight: bold;
+    z-index: 1;
+    visibility: hidden;
+}

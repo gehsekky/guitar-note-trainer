@@ -1,0 +1,17 @@
+.evaluationContainer {
+    padding: 15px;
+}
+
+.buttonContainer {
+    text-align: center;
+}
+
+.button {
+    border-radius: 7px;
+    border: 1px solid #000;
+    padding: 5px;
+}
+
+.outputContainer {
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+.guitarContainer {
+    border: 1px solid #000;
+    overflow: auto;
+    padding: 1rem;
+    height: 50%;
+}
+
+.noteValue {
+    display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
